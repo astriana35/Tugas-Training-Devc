@@ -1,0 +1,22 @@
+
+h4 {
+  color: Red;
+}
+
+body {
+  background-color: #00aee7;
+}
+
+fieldset {
+  background-color: #e50073;
+}
+
+table {
+  background-color: #e50073;
+}
+
+body1 {
+  background-color: #00aee7;
+  background-image: url("forobersama.jpg");
+  background-repeat: no-repeat;
+}
